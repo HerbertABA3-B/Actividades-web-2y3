@@ -1,0 +1,57 @@
+html
+{
+    background-color: rgb(104, 103, 103);
+}
+nav{
+    background-color: rgb(111, 181, 234);
+    width: 1000px;
+    height: 100px;
+    margin: 5px;
+    border-radius: 10px;
+    color: aliceblue;
+    font-family: 'Koulen', cursive;
+   
+}
+
+section#nombre 
+{
+    width: 1000px;
+    width: center;
+    height: 30px;
+    float: left;
+    margin: 5px;
+    border-radius: 10px;
+    color: aliceblue;
+    font-family: 'Koulen', cursive;
+}
+section#subtitulo
+{
+    width: 1000px;
+    width: center;
+    height: 30px;
+    float: left;
+    margin: 5px;
+    border-radius: 10px;
+    color: aliceblue;
+    font-family: 'Koulen', cursive;
+}
+header
+{
+    background-color: rgb(111, 181, 234);
+    width: 1000px;
+    height: 600px;
+    margin: 5px;
+    border-radius: 10px;
+    color: aliceblue;
+    font-family: 'Koulen', cursive;
+}
+
+iframe
+{
+    width: 500px;
+    height: 300px;
+    margin: 5px;
+    border-radius: 0px;
+}
+
+
