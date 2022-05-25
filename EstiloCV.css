@@ -1,0 +1,26 @@
+html{
+    background-image:url(Fondo4.JPEG); 
+}
+body{
+    font-family: 'roboto', sans-serif;
+   
+}
+img{
+     border: 5px solid rgb(255, 255, 255);
+     border-radius: 90px;
+}
+h1{
+    color:rgb(255, 255, 255);
+}
+h2{
+    font-family: 'roboto',sans-serif;
+    font-size: 35px;
+    color: rgb(251, 251, 251);
+}
+strong{
+    color: rgb(255, 255, 255);
+}
+.TextoNormal{
+    color: rgb(255, 255, 255);
+    
+}
